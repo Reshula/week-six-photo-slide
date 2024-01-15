@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/week-six-photo-slide.git/static/css/main.f6f33286.css",
+    "main.js": "/week-six-photo-slide.git/static/js/main.e039f4a4.js",
+    "static/js/787.f86f3c90.chunk.js": "/week-six-photo-slide.git/static/js/787.f86f3c90.chunk.js",
+    "index.html": "/week-six-photo-slide.git/index.html",
+    "main.f6f33286.css.map": "/week-six-photo-slide.git/static/css/main.f6f33286.css.map",
+    "main.e039f4a4.js.map": "/week-six-photo-slide.git/static/js/main.e039f4a4.js.map",
+    "787.f86f3c90.chunk.js.map": "/week-six-photo-slide.git/static/js/787.f86f3c90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6f33286.css",
+    "static/js/main.e039f4a4.js"
+  ]
+}
